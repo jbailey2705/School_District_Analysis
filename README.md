@@ -17,11 +17,24 @@ Using two rescources to compile data, we have presented Maria the followin infor
 
 ## Resources:
 
+For this project will will be using the following programs:
+      - Anaconda
+      - Python
+      - Jupitor Program (Pandas)
+
 [schools_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485340/schools_complete.csv)
 
 [students_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485341/students_complete.csv)
 
 [clean_students_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485342/clean_students_complete.csv)
 
+## School Analysis Results
 
-For this project we will be using Anaconda/Python/Jupiter programs
+After re-reviewing the data with Maria, we removed the 9th grade students for Thomas HS, 461 students in total
+
+# Original District Summary:
+
+![Screen Shot 2022-09-04 at 2 14 55 PM](https://user-images.githubusercontent.com/109354592/188329900-489fca1a-3801-43f6-8526-f324bb8ed0fd.png)
+
+
+
