@@ -17,9 +17,12 @@ Using two rescources to compile data, we have presented Maria the followin infor
 
 ## Resources:
 
-[schools_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485340/schools_complete.csv)
-[students_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485341/students_complete.csv)
-[clean_students_complete.csv](https://github.com/jbailey2705/School_District_Analysis/files/9485342/clean_students_complete.csv)
+[schools_complete.csv]
+(https://github.com/jbailey2705/School_District_Analysis/files/9485340/schools_complete.csv)
+[students_complete.csv]
+(https://github.com/jbailey2705/School_District_Analysis/files/9485341/students_complete.csv)
+[clean_students_complete.csv]
+(https://github.com/jbailey2705/School_District_Analysis/files/9485342/clean_students_complete.csv)
 
 
 For this project we will be using Anaconda/Python/Jupiter programs
